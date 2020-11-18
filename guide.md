@@ -7,3 +7,9 @@ Environment: Windows 7(64 bit)
 
 tip: If you are using GoogleGlassEE2, you do not have to modify the driver set-up file.
 
+
+# Google Glass gestures
+
+https://support.google.com/glass/answer/3064184?hl=en
+
+

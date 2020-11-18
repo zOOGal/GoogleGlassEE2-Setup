@@ -13,3 +13,6 @@ tip: If you are using GoogleGlassEE2, you do not have to modify the driver set-u
 https://support.google.com/glass/answer/3064184?hl=en
 
 
+# adb tool
+add environment variable C:\Users\username\AppData\Local\Android\Sdk\platform-tools
+at the end of both PATH in user variable and system variable

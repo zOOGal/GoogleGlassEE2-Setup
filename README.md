@@ -2,8 +2,8 @@
 
 Follow https://medium.com/@jeffzzq/using-google-glass-in-2020-5f0a01188e6e
 
-Environment: Windows 10
+Environment: Windows 7(64 bit)
+(tried on win10, DEll xps13, failed)
 
-step 1:
-![avatar](C:/Users/colgx/Desktop/step1.jpg)
+tip: If you are using GoogleGlassEE2, you do not have to modify the driver set-up file.
 

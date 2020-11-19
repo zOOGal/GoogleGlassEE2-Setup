@@ -16,3 +16,7 @@ https://support.google.com/glass/answer/3064184?hl=en
 # adb tool
 add environment variable C:\Users\username\AppData\Local\Android\Sdk\platform-tools
 at the end of both PATH in user variable and system variable
+
+
+# fastboot
+follow https://stackoverflow.com/questions/64532583/how-to-enable-the-debug-mode-on-google-glass-enterprise-edition-2
